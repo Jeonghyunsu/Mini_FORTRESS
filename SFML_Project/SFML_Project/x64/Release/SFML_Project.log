@@ -1,0 +1,14 @@
+﻿  Game.cpp
+c:\users\yongu\desktop\sfml\sfml_project\sfml_project\statusbar.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+c:\users\yongu\desktop\sfml\sfml_project\sfml_project\headers.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  Map.cpp
+c:\users\yongu\desktop\sfml\sfml_project\sfml_project\map.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  Missile.cpp
+c:\users\yongu\desktop\sfml\sfml_project\sfml_project\missile.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+c:\users\yongu\desktop\sfml\sfml_project\sfml_project\player.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  StatusBar.cpp
+c:\users\yongu\desktop\sfml\sfml_project\sfml_project\statusbar.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  Tank.cpp
+c:\users\yongu\desktop\sfml\sfml_project\sfml_project\tank.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory

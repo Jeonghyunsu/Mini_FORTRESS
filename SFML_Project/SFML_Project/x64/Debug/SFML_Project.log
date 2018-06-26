@@ -1,0 +1,19 @@
+﻿  Tank.cpp
+c:\users\정현수\desktop\sfml_project_hw2\sfml_project\tank.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  StatusBar.cpp
+c:\users\정현수\desktop\sfml_project_hw2\sfml_project\statusbar.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+c:\users\정현수\desktop\sfml_project_hw2\sfml_project\player.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  MissileTank.cpp
+c:\users\정현수\desktop\sfml_project_hw2\sfml_project\tank.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  Missile.cpp
+c:\users\정현수\desktop\sfml_project_hw2\sfml_project\missile.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  Map.cpp
+c:\users\정현수\desktop\sfml_project_hw2\sfml_project\map.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+c:\users\정현수\desktop\sfml_project_hw2\sfml_project\headers.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  Game.cpp
+c:\users\정현수\desktop\sfml_project_hw2\sfml_project\statusbar.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  CanonTank.cpp
+c:\users\정현수\desktop\sfml_project_hw2\sfml_project\tank.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  코드를 생성하고 있습니다...
